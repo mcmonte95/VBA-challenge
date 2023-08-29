@@ -4,12 +4,6 @@ ScreenShots folder contains screenshots of the results for each year (sheet)
 
 stock_data_script_final.bas is the seperate script file that contains the solution code
 
-Multiple_year_stock_data_final.xlsm is the solved stock data sheet 
-
-
-
-
-
 
 # Refereces used
 
